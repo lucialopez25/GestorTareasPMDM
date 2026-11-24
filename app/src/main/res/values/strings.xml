@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">GestorTareasPMDM</string>
+    <string name="titulo_app">Gestor Personal de Tareas</string>
+    <string name="cd_icono_app">Icono de Gestor Personal de Tareas</string>
+
+    <string name="btn_nueva_tarea">Nueva tarea</string>
+    <string name="btn_tareas_ejemplo">Tareas de ejemplo</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_guardando">Guardando…</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_volver">Volver</string>
+
+    <string name="filtro_solo_pendientes">Mostrar solo pendientes</string>
+    <string name="lista_vacia_sin_tareas">No hay tareas creadas todavía. Pulsa «Nueva tarea» para añadir la primera.</string>
+    <string name="lista_vacia_sin_pendientes">No hay tareas pendientes con el filtro activo.</string>
+
+    <string name="etiqueta_prioridad">Prioridad: %1$s</string>
+    <string name="prioridad_baja">Baja</string>
+    <string name="prioridad_media">Media</string>
+    <string name="prioridad_alta">Alta</string>
+
+    <string name="cd_editar">Editar tarea</string>
+    <string name="cd_eliminar">Eliminar tarea</string>
+    <string name="cd_compartir">Compartir tarea</string>
+
+    <string name="dialogo_eliminar_titulo">Eliminar tarea</string>
+    <string name="dialogo_eliminar_mensaje">¿Seguro que deseas eliminar la tarea «%1$s»?</string>
+    <string name="btn_confirmar_eliminar">Eliminar</string>
+
+    <string name="titulo_nueva_tarea">Nueva tarea</string>
+    <string name="titulo_editar_tarea">Editar tarea</string>
+    <string name="campo_titulo">Título</string>
+    <string name="campo_descripcion">Descripción</string>
+    <string name="campo_prioridad">Prioridad</string>
+
+    <string name="error_titulo_invalido">El título es obligatorio y debe tener al menos 3 caracteres.</string>
+    <string name="error_prioridad_invalida">Selecciona una prioridad válida (Baja, Media o Alta).</string>
+
+    <string name="titulo_tareas_ejemplo">Tareas de ejemplo externas</string>
+    <string name="subtitulo_tareas_ejemplo">Consulta de solo lectura desde JSONPlaceholder. Estas tareas no se guardan en tu lista personal.</string>
+    <string name="btn_cargar_ejemplos">Cargar tareas de ejemplo</string>
+    <string name="btn_reintentar">Reintentar</string>
+    <string name="ejemplos_estado_reposo">Pulsa «Cargar tareas de ejemplo» para consultar el servidor.</string>
+    <string name="ejemplos_estado_cargando">Cargando tareas de ejemplo desde el servidor…</string>
+    <string name="ejemplos_estado_vacio">El servidor no devolvió tareas de ejemplo.</string>
+    <string name="ejemplos_estado_error">No se pudieron obtener las tareas de ejemplo. Revisa tu conexión a internet e inténtalo de nuevo.</string>
+    <string name="ejemplos_id">ID #%1$d</string>
+    <string name="estado_completada">Completada</string>
+    <string name="estado_pendiente">Pendiente</string>
+
+    <string name="compartir_sin_descripcion">Sin descripción</string>
+    <string name="compartir_plantilla_texto">Tarea: %1$s\nDescripción: %2$s\nPrioridad: %3$s</string>
+    <string name="compartir_titulo_selector">Compartir tarea</string>
+    <string name="compartir_error_sin_app">No se encontró ninguna aplicación compatible para compartir la tarea.</string>
+</resources>
