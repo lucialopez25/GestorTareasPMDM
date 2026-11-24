@@ -44,3 +44,6 @@ GestorTareasPMDM/
 ├── capturas/                   # Capturas de pantalla de la aplicación
 ├── app-debug.apk               # Ejecutable generado para instalación directa
 └── README.md                   # Documentación del proyecto
+
+## 🤖 Evidencia de uso de IA
+* **Conversación con Gemini:** [Ver historial completo de desarrollo](PEGA_AQUI_TU_ENLACE)
