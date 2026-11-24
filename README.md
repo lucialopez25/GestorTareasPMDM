@@ -26,6 +26,10 @@ El proyecto implementa una arquitectura limpia con una única `MainActivity`, na
 * **Conectividad Android:** Intents implícitos (`Intent.ACTION_SEND` + `Intent.createChooser`)
 
 ---
+## 🤖 Evidencia de uso de IA
+* **Conversación con Gemini:** [Ver historial completo de desarrollo](https://gemini.google.com/share/d/1RAdPQenJAXB6M03MB5R4uGLZaaeXE68L?usp=sharing)
+
+---
 
 ## 📂 Estructura del Proyecto
 
@@ -45,5 +49,3 @@ GestorTareasPMDM/
 ├── app-debug.apk               # Ejecutable generado para instalación directa
 └── README.md                   # Documentación del proyecto
 
-## 🤖 Evidencia de uso de IA
-* **Conversación con Gemini:** [Ver historial completo de desarrollo](PEGA_AQUI_TU_ENLACE)
